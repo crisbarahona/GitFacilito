@@ -1,5 +1,7 @@
 p {
     color: blue;
+    text-transform: uppercase;
+    letter-spacing: 5px;
 }
 
 .titulo {
@@ -9,4 +11,5 @@ p {
 
 b {
     color: green;
+    background-color: pink;
 }
