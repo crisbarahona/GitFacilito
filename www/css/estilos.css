@@ -13,3 +13,14 @@ b {
     color: green;
     background-color: pink;
 }
+
+div h3 {
+    background-color: blue;
+    color: white;
+}
+
+h1,
+h2 {
+    color: white;
+    background-color: red;
+}
